@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "873895626694",
+    "firebase_url": "https://digitalindiahackathon-d44c1.firebaseio.com",
+    "project_id": "digitalindiahackathon-d44c1",
+    "storage_bucket": "digitalindiahackathon-d44c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873895626694:android:37b2bbc507c056b9",
+        "android_client_info": {
+          "package_name": "gurpreetsk.me.indiaspeaks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "873895626694-ejk6ldj3fhbrs07vob7tha874bue0kta.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC72DSTP-EvdwbHfYiro67w_n_dK8nfEUY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
